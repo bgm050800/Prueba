@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package interface_juego;
 
 import java.awt.Graphics;
@@ -13,12 +8,6 @@ import javax.swing.ImageIcon;
 
 import javax.swing.JPanel;
 
-
-
-/**
- *
- * @author Bykgm
- */
 public class inicio_juego extends javax.swing.JFrame {
 
     

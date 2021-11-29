@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package interface_juego;
 
 import java.awt.Color;
@@ -30,10 +25,6 @@ import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 
-/**
- *
- * @author Bykgm
- */
 public class plantilla_preguntas extends javax.swing.JFrame implements Runnable  {
 
         
